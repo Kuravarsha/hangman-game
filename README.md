@@ -1,4 +1,4 @@
-🎮 Hangman Game in Python 🐍
+ 🎮 Hangman Game in Python 🐍
 Welcome to the classic Hangman game built with Python! Guess the secret word before the hangman is fully drawn. 😱
 
 📝 Overview
